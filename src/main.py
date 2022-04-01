@@ -1,5 +1,5 @@
 from config import AppConfig
-from crawler.Crawler import Crawler
+from src.crawler.Crawler import Crawler
 import pandas as pd
 
 if __name__ == '__main__':
