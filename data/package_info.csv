@@ -1,0 +1,3 @@
+package_name,api_doc_full_url,doc_base_url,java_class_doc_base_url
+com.google.gson,https://javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/package-summary.html,https://javadoc.io,https://javadoc.io/static/com.google.code.gson/gson/2.9.0/com.google.gson/com/google/gson/
+org.apache.commons.lang3,https://javadoc.io/static/org.apache.commons/commons-lang3/3.12.0/org/apache/commons/lang3/package-summary.html,https://javadoc.io,https://javadoc.io/static/org.apache.commons/commons-lang3/3.12.0/org/apache/commons/lang3/
