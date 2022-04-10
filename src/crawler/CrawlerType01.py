@@ -5,7 +5,7 @@ import pandas as pd
 from config import AppConfig
 
 
-class Crawler:
+class CrawlerType01:
     def __init__(self, package_info):
         self.package_info = package_info
 
